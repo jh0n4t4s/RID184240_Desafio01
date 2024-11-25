@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    background-color: #303030;
+    color: white;
+    font-family: 'inter';
+}
+
+#top_menu_title{
+    margin-left: 50px;
+    margin-top: 150px;
+}
+
+#top_menu_text{
+    margin-left: 50px;
+    margin-top: 35px;
+}
+
+
+#informational_menu{
+    background-color: white;
+    color: black;
+}
