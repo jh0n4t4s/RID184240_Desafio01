@@ -1,22 +1,47 @@
 *{
     margin: 0px;
-    background-color: #303030;
-    color: white;
     font-family: 'inter';
 }
 
+#top_menu{
+    background-color: #303030;
+    color: white;
+    width: 100%;
+    height: 430px;
+}
+
 #top_menu_title{
-    margin-left: 50px;
-    margin-top: 150px;
+    padding: 180px 0px 20px 60px;
+    font-size: 60px;
 }
 
 #top_menu_text{
-    margin-left: 50px;
-    margin-top: 35px;
+    font-size: 20px;
+    padding-left: 60px;
+
 }
 
 
 #informational_menu{
-    background-color: white;
-    color: black;
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+.informational_menu_block{
+    height: 215px;
+    width: 100%;
+}
+
+.informational_text1{
+    margin: 80px 0px 0px 160px;
+    font-size: 36px;
+    font-weight: bolder;
+
+}
+
+.informational_text{
+    margin: 0px 0px 0px 160px;
+    font-size: 18px;
 }
