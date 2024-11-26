@@ -45,3 +45,26 @@
     margin: 0px 0px 0px 160px;
     font-size: 18px;
 }
+
+#history_menu{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#history_menu1{
+    margin: 250px 0px 0px 60px;
+}
+
+#history_menu_text1{
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+
+#history_menu_text2{
+    font-size: 24px;
+}
+
+#image1{
+    padding: 70px 0px 70px 100px;
+}
