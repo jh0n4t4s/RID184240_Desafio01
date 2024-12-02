@@ -1,5 +1,5 @@
-#Desafio: Desenvolva uma Landing Page
-Landing Page para arquitetos utilizando formulario para captaçao de informações.
+# Desafio: Desenvolva uma Landing Page
+Landing Page para arquitetos utilizando formulário para captação de informações.
 
 Link site: https://rid184240desafio01.netlify.app/
 
